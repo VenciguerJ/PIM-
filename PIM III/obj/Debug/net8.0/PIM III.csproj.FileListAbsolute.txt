@@ -12,3 +12,25 @@ D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\PIM III\obj\Debug\net8.0\re
 D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\PIM III\obj\Debug\net8.0\PIM III.pdb
 D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\PIM III\obj\Debug\net8.0\PIM III.genruntimeconfig.cache
 D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\PIM III\obj\Debug\net8.0\ref\PIM III.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.csproj.AssemblyReference.cache
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.AssemblyInfoInputs.cache
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.AssemblyInfo.cs
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.csproj.CoreCompileInputs.cache
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\refint\PIM III.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.pdb
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\PIM III.exe
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\PIM III.deps.json
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\PIM III.runtimeconfig.json
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\PIM III.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\PIM III.pdb
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.csproj.Up2Date
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\PIM III.genruntimeconfig.cache
+D:\PC\Programação\Faculdade\3 Semestre\PIM\PIM III\obj\Debug\net8.0\ref\PIM III.dll

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PIM_III
+namespace Client_Config
 {
     public class Client
     {
@@ -25,7 +25,7 @@ namespace PIM_III
 
         public Boolean Assinante { get; set; }
 
-        public Client CreateClient()
+        static Client CreateClient()
         {
             Console.WriteLine("CADASTRO DE NOVO CLIENTE\n\n\n");
             Console.WriteLine("Informe o nome do cliente: ");
